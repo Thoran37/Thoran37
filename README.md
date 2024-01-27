@@ -4,7 +4,7 @@
 - 🌱 Currently learning MERN Stack - Confident in ReactJS.
 - 💻 I’m eager to work on building an attractive front-end.
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,bootstrap,nodejs,express,codepen,py,anaconda,r,git,github,latex,mysql,arduino,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,bootstrap,nodejs,express,codepen,py,anaconda,r,git,github,latex,mysql,arduino,vscode&theme=light)](https://skillicons.dev)
 - 📫 Phone No. -  9948068484, email - thoranmuvvala@gmail.com
 
 <!---

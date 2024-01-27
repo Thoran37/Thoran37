@@ -1,4 +1,4 @@
-# Hello👋, I’m M Thoran Chandra
+# Hello👋, I’m Thoran
 - 🎓 I'm a 2nd-year student pursuing B.Tech in Computer Science Business Systems at VNRVJIET, Hyderabad.
 - 🚀 I enjoy working in teams and love to explore new fields of technology. 
 - 🌱 Currently learning MERN Stack - Confident in ReactJS.

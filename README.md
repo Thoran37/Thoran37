@@ -1,7 +1,8 @@
 # Hello👋, I’m Thoran
-- 🎓 I'm a 3rd-year student pursuing B.Tech in Computer Science Business Systems at VNRVJIET, Hyderabad.
+- 🎓 I'm a 4th-year student pursuing B.Tech in Computer Science Business Systems at VNRVJIET, Hyderabad.
 - 🚀 I enjoy working in teams and love to explore new fields of technology. 
 - 🌱 Amazon ML Summer School 2024 participant.
+- 👩‍💻 Code for <<Good>Good> 2025 participant
 - 🎨 MERN Stack Developer - Proficient in backend development.
 - 💻 I love participating in hackathons where cutting-edge technologies are developed.
 # Skills

@@ -8,9 +8,7 @@
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,bootstrap,nodejs,express,codepen,py,anaconda,r,git,github,latex,mysql,arduino,vscode&theme=light)](https://skillicons.dev)
 - 📫 Phone No. -  9948068484, email - thoranmuvvala@gmail.com
-# Badges
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-
+- [My Portfolio](https://thoran37.github.io/thoran_Portfolio)
 <!---
 Thoran37/Thoran37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
